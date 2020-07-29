@@ -1,2 +1,2 @@
 Inititalisation du README
-Ajout d'informations
+Ajout de rien du tout wesh
