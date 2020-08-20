@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 data 2
+=======
+data
+ouuuuu
+>>>>>>> 3cc8a7ded287a12abbc3fb64f8a87e04e76ca220
